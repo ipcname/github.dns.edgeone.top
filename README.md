@@ -1,2 +1,2 @@
-# github.dns.slb.icu
+# github.dns.edgeone.top
 ### hold
